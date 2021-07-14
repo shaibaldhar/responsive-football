@@ -32,11 +32,11 @@ img{
     padding-bottom: 1px;   
 }
 .grid{
-    margin-left: 180px;
-    margin-right: 210px;
+    margin-left: 270px;
+    margin-right: 320px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 30px; 
+    grid-gap: 60px; 
     align-items: center;
 }
 .grid>article{
