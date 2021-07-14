@@ -75,6 +75,12 @@ h2{
 h1{
     background-color: blue;
 }
-.top-banner{
-    
+/*-------Media Quaries---------*/
+
+
+/* Mobile Devices */
+@media only screen and (max-width: 600px){
+    body{
+        background-color: lightblue;
+    }
 }
